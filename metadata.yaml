@@ -1,4 +1,8 @@
 _repo: The-Intrusions-of-Peggy_47319
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47319-h/images/cover.jpg
 creator:
   author:
     agent_name: Hope, Anthony
@@ -11,6 +15,8 @@ creator:
 description: In this 1902 novel of society, a young widow travels to London, where
   she is taken up by Peggy, a free spirit. The widow decides to take control of her
   life and together with Peggy, they experience adventures and romance.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47319#The-Intrusions-of-Peggy
 gutenberg_issued: '2014-11-09'
 gutenberg_type: Text
 identifiers:
